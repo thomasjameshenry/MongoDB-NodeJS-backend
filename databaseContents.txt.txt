@@ -1,0 +1,508 @@
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c461d"),
+        "customer_id" : {
+                "$cid" : "5ea2ec907d741f9a20f41949"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41951"
+                        },
+                        "order2" : {
+                                "$oid" : "5ea2ec977d741f9a20f41952"
+                        }
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c461e"),
+        "customerDetails" : {
+                "$cid" : "5ea2ec907d741f9a20f4194a"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41950"
+                        },
+                        "order2" : {
+                                "$oid" : "5ea2ec977d741f9a20f41954"
+                        }
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c461f"),
+        "customerDetails" : {
+                "$cid" : "5ea2ec907d741f9a20f4194b"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41950"
+                        },
+                        "order2" : {
+                                "$oid" : "5ea2ec977d741f9a20f41952"
+                        },
+                        "order3" : {
+                                "$oid" : "5ea2ec977d741f9a20f41953"
+                        }
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c4620"),
+        "customerDetails" : {
+                "$cid" : "5ea2ec907d741f9a20f4194d"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41954"
+                        }
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c4621"),
+        "customerDetails" : {
+                "$cid" : "5ea2ec907d741f9a20f4194e"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41951"
+                        },
+                        "order2" : {
+                                "$oid" : "5ea2ec977d741f9a20f41957"
+                        }
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c4622"),
+        "customerDetails" : {
+                "$cid" : "5ea2ec907d741f9a20f4194f"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41952"
+                        },
+                        "order2" : {
+                                "$oid" : "5ea2ec977d741f9a20f41955"
+                        },
+                        "order3" : {
+                                "$oid" : "5ea2ec977d741f9a20f41957"
+                        }
+                }
+        ]
+}
+///////////////////////////////////////////////////////////////////////////
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c461d"),
+        "customer_id" : {
+                "$cid" : "5ea2ec907d741f9a20f41949"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41951"
+                        },
+                        "order2" : {
+                                "$oid" : "5ea2ec977d741f9a20f41952"
+                        }
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c461e"),
+        "customerDetails" : {
+                "$cid" : "5ea2ec907d741f9a20f4194a"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41950"
+                        },
+                        "order2" : {
+                                "$oid" : "5ea2ec977d741f9a20f41954"
+                        }
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c461f"),
+        "customerDetails" : {
+                "$cid" : "5ea2ec907d741f9a20f4194b"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41950"
+                        },
+                        "order2" : {
+                                "$oid" : "5ea2ec977d741f9a20f41952"
+                        },
+                        "order3" : {
+                                "$oid" : "5ea2ec977d741f9a20f41953"
+                        }
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c4620"),
+        "customerDetails" : {
+                "$cid" : "5ea2ec907d741f9a20f4194d"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41954"
+                        }
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c4621"),
+        "customerDetails" : {
+                "$cid" : "5ea2ec907d741f9a20f4194e"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41951"
+                        },
+                        "order2" : {
+                                "$oid" : "5ea2ec977d741f9a20f41957"
+                        }
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea57c2ec7601b084a3c4622"),
+        "customerDetails" : {
+                "$cid" : "5ea2ec907d741f9a20f4194f"
+        },
+        "productDetails" : [
+                {
+                        "order1" : {
+                                "$oid" : "5ea2ec977d741f9a20f41952"
+                        },
+                        "order2" : {
+                                "$oid" : "5ea2ec977d741f9a20f41955"
+                        },
+                        "order3" : {
+                                "$oid" : "5ea2ec977d741f9a20f41957"
+                        }
+                }
+        ]
+}
+MongoDB Enterprise Cluster0-shard-0:PRIMARY> db.customers.find().pretty()
+{
+        "_id" : ObjectId("5ea5978c553da528bebeb04e"),
+        "Title" : "Mr",
+        "fname" : "Aurora",
+        "lname" : "Barton",
+        "orders" : [
+                {
+                        "item_id" : "5ea17ce6bcf4c8ef52072145"
+                }
+        ],
+        "email" : "Aurora.Barton@outlook.com",
+        "mobile" : [
+                {
+                        "phone1" : "08103221"
+                }
+        ],
+        "DoB" : "1977-09-26",
+        "homeAdd" : [
+                {
+                        "addressLine1" : "Stonehurst",
+                        "addressLine2" : "Queen Oaks Court",
+                        "town" : "Scariff",
+                        "county" : "County Tipperary",
+                        "eircode" : "V32BA13"
+                }
+        ],
+        "shipAdd" : [
+                {
+                        "addressLine1" : "Riverside",
+                        "addressLine2" : "Heatherbell",
+                        "town" : "Clonlara",
+                        "county" : "County Fermanagh",
+                        "eircode" : "V54QI46"
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea5978c553da528bebeb04f"),
+        "Title" : "Ms",
+        "fname" : "Savannah",
+        "lname" : "Desai",
+        "orders" : [
+                {
+                        "item_id" : "5ea17ce6bcf4c8ef52072140"
+                },
+                {
+                        "item_id" : "5ea17d14bcf4c8ef5207214c"
+                }
+        ],
+        "email" : "Savannah.Desai@mumail.ie",
+        "mobile" : [
+                {
+                        "phone" : "08150237"
+                },
+                {
+                        "phone" : "08926987"
+                }
+        ],
+        "DoB" : "2012-10-30",
+        "homeAdd" : [
+                {
+                        "addressLine1" : "Jasmine Cottage",
+                        "addressLine2" : "Queen Oaks Court",
+                        "town" : "Clonmel",
+                        "county" : "County Cavan",
+                        "eircode" : "U103BG18"
+                }
+        ],
+        "shipAdd" : [
+                {
+                        "addressLine1" : "Blackberry Cottage",
+                        "addressLine2" : "Holmeswood",
+                        "town" : "Abbeyfeale",
+                        "county" : "County Mayo",
+                        "eircode" : "H103CY98"
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea5978c553da528bebeb050"),
+        "Title" : "Ms",
+        "fname" : "Brayden",
+        "lname" : "Melton",
+        "orders" : [
+                {
+                        "item_id" : "5ea17d14bcf4c8ef52072147"
+                }
+        ],
+        "email" : "Brayden.Melton38@gmail.com",
+        "mobile" : [
+                {
+                        "phone1" : "08668097"
+                }
+        ],
+        "DoB" : "1991-08-18",
+        "homeAdd" : [
+                {
+                        "addressLine1" : "Hope Corner",
+                        "addressLine2" : "Kuredu Cumfrubrum",
+                        "town" : "Blackwater",
+                        "county" : "County Kerry",
+                        "eircode" : "Y20TU35"
+                }
+        ],
+        "shipAdd" : [
+                {
+                        "addressLine1" : "Mill House Farm",
+                        "addressLine2" : "Little Acorn",
+                        "town" : "Timoleague",
+                        "county" : "County Kilkenny",
+                        "eircode" : "S76BD55"
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea5978c553da528bebeb051"),
+        "Title" : "Mr",
+        "fname" : "Brayden",
+        "lname" : "Bender",
+        "orders" : [
+                {
+                        "item_id" : "5ea17d14bcf4c8ef52072149"
+                }
+        ],
+        "email" : "BBender@yahoo.co.uk",
+        "mobile" : [
+                {
+                        "phone1" : "08490092"
+                }
+        ],
+        "DoB" : "1993-11-27",
+        "homeAdd" : [
+                {
+                        "addressLine1" : "Appletree Lodge",
+                        "addressLine2" : "Southcote",
+                        "town" : "Mahoonagh",
+                        "county" : "County Monaghan",
+                        "eircode" : "K108CT28"
+                }
+        ],
+        "shipAdd" : [
+                {
+                        "addressLine1" : "Campion",
+                        "addressLine2" : "Daisy Cottage",
+                        "town" : "Holycross",
+                        "county" : "County Fermanagh",
+                        "eircode" : "Q47QR48"
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea5978c553da528bebeb052"),
+        "Title" : "Mr",
+        "fname" : "Chloe",
+        "lname" : "Chung",
+        "orders" : [
+                {
+                        "item_id" : "5ea17d74bcf4c8ef52072150"
+                }
+        ],
+        "email" : "Chloe.Chung31@yahoo.co.uk",
+        "mobile" : [
+                {
+                        "phone1" : "08636080"
+                }
+        ],
+        "DoB" : "1976-07-11",
+        "homeAdd" : [
+                {
+                        "addressLine1" : "Oystercatchers",
+                        "addressLine2" : "Ardoran",
+                        "town" : "Clonmel",
+                        "county" : "County Meath",
+                        "eircode" : "B81TJ39"
+                }
+        ],
+        "shipAdd" : [
+                {
+                        "addressLine1" : "Crystal Cottage",
+                        "addressLine2" : "The Cherries",
+                        "town" : "Goleen",
+                        "county" : "County Fermanagh",
+                        "eircode" : "L102IF43"
+                }
+        ]
+}
+{
+        "_id" : ObjectId("5ea5978c553da528bebeb053"),
+        "Title" : "Miss",
+        "fname" : "Olivia",
+        "lname" : "Hamilton",
+        "orders" : [
+                {
+                        "item_id" : "5ea17ce6bcf4c8ef52072144"
+                },
+                {
+                        "item_id" : "5ea17d14bcf4c8ef5207214e"
+                },
+                {
+                        "item_id" : "5ea17d74bcf4c8ef52072156"
+                }
+        ],
+        "email" : "Olivia.Hamilton@hotmail.com",
+        "mobile" : [
+                {
+                        "phone" : "08619732"
+                },
+                {
+                        "phone" : "08300480"
+                },
+                {
+                        "phone" : "08822638"
+                }
+        ],
+        "DoB" : "1992-01-14",
+        "homeAdd" : [
+                {
+                        "addressLine1" : "Holmeswood",
+                        "addressLine2" : "Mill House Farm",
+                        "town" : "Timoleague",
+                        "county" : "County Kerry",
+                        "eircode" : "G107RY43"
+                }
+        ],
+        "shipAdd" : [
+                {
+                        "addressLine1" : "Stonehurst",
+                        "addressLine2" : "Southcote",
+                        "town" : "Killybegs",
+                        "county" : "County Antrim",
+                        "eircode" : "B81AD72"
+                }
+        ]
+}
+///////////////////////////////////////////////////////////////////////////
+[{
+        "_id" : ObjectId("5ea597a9553da528bebeb054"),
+        "manufacturer" : "Sony",
+        "model" : "Sony Xperia XA2 Ultra",
+        "price" : "£254.71",
+        "size" : "28.1",
+        "resolution" : "720×1280",
+        "color" : "blue"
+},
+{
+        "_id" : ObjectId("5ea597a9553da528bebeb055"),
+        "manufacturer" : "Samsung",
+        "model" : "J3",
+        "price" : "£535.5",
+        "size" : "17",
+        "resolution" : "750×1334",
+        "color" : "rose gold"
+},
+{
+        "_id" : ObjectId("5ea597a9553da528bebeb056"),
+        "manufacturer" : "Samsung",
+        "model" : "J3",
+        "price" : "£801.38",
+        "size" : "17.7",
+        "resolution" : "640×1136",
+        "color" : "green"
+},
+{
+        "_id" : ObjectId("5ea597a9553da528bebeb057"),
+        "manufacturer" : "Samsung",
+        "model" : "A7",
+        "price" : "£799.77",
+        "size" : "23.7",
+        "resolution" : "480×800",
+        "color" : "green"
+},
+{
+        "_id" : ObjectId("5ea597a9553da528bebeb058"),
+        "manufacturer" : "Apple",
+        "model" : "Iphone 8",
+        "price" : "£790.76",
+        "size" : "17.4",
+        "resolution" : "750×1334",
+        "color" : "rose gold"
+},
+{
+        "_id" : ObjectId("5ea597a9553da528bebeb059"),
+        "manufacturer" : "Apple",
+        "model" : "Iphone 8",
+        "price" : "£695.83",
+        "size" : "28.3",
+        "resolution" : "750×1334",
+        "color" : "white"
+},
+{
+        "_id" : ObjectId("5ea597a9553da528bebeb05a"),
+        "manufacturer" : "Apple",
+        "model" : "Iphone 6",
+        "price" : "£356.97",
+        "size" : "24.9",
+        "resolution" : "480×800",
+        "color" : "rose gold"
+},
+{
+        "_id" : ObjectId("5ea597a9553da528bebeb05b"),
+        "manufacturer" : "Huawei",
+        "model" : "Huawei Y9 Prime 2019",
+        "price" : "£1001.22",
+        "size" : "28.5",
+        "resolution" : "640×1136",
+        "color" : "green"
+}]
+db.customers.aggregate([{$lookup:{from: "items",localField:"orders",foreignField:"_id",as: "orderDetails"}}]).pretty()

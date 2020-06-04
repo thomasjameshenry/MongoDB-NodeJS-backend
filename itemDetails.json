@@ -1,0 +1,23 @@
+[{
+        "manufacturer": "Apple",
+        "model": "Iphone 8",
+        "price": "£870.77",
+        "size": "31.4",
+        "resolution": "1440×2560",
+        "color": "rose gold"
+    }, {
+        "manufacturer": "Apple",
+        "model": "Iphone X",
+        "price": "£418.33",
+        "size": "30.9",
+        "resolution": "720×1280",
+        "color": "green"
+    }, {
+        "manufacturer": "Sony",
+        "model": "Sony Xperia L2",
+        "price": "£616.53",
+        "size": "30.6",
+        "resolution": "1440×2560",
+        "color": "green"
+    }
+]
